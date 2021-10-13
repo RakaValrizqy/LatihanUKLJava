@@ -11,7 +11,7 @@ public class No1 {
         int s = u;
         
         System.out.println("Deret bilangan :");
-        for (int i = nawal; i < nakhir; i++) {
+        for (int i = nawal; i < nakhir+1; i++) {
             System.out.println(u);
             u += b;
             s += u;
